@@ -1,1 +1,3 @@
-# GraphQL-Apollo-React-Movie-App
+Apollo 2020
+======
+Movie app built with React, Apollo and GraphQL
